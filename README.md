@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @William-Ta0
 - 👀 I’m interested in Coding, Sports and Gaming.
-- 🌱 I’m currently learning in University of Manchester.
+- 🌱 I’m currently studying in University of Manchester.
 - 💞️ I’m looking to collaborate on any interesting projects.
 - 📫 How to reach me williamtao030206@outlook.com
 
