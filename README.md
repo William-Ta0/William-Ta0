@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @William-Ta0
-- 👀 I’m interested in Coding, None Profit Project & any cooperation.
-- 🌱 I’m a recent graduate computer science student from University of Manchester. 
+- 👋 Hi, this is William
+- 👀 I’m interested in programming.
+- 🌱 I’m a graduate student in Santa Clara University studying computer science. 
 - 💞️ I’m looking to collaborate on any interesting projects.
 - 📫 How to reach me williamtao030206@outlook.com
 
