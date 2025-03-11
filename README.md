@@ -1,4 +1,4 @@
-- 👋 Hi, this is William
+- 👋 Hi, this is Zhengxin (William).
 - 👀 I’m interested in programming.
 - 🌱 I’m a graduate student in Santa Clara University studying computer science. 
 - 💞️ I’m looking to collaborate on any interesting projects.
